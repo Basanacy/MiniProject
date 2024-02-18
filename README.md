@@ -1,0 +1,2 @@
+# MiniProject
+Hospital Management System 
